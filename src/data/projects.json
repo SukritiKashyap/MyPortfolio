@@ -1,0 +1,62 @@
+[
+  {
+    "id": "customer-profitability",
+    "title": "Customer Profitibility Analysis",
+    "tag": "Data Analysis",
+    "problem": "Analyzed customer transaction data to understand purchasing behavior and applied segmentation techniques to identify high-value customer groups and business growth opportunities.",
+    "tools": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn"],
+    "insights": [
+      "Performed EDA to uncover trends in revenue, order frequency, and customer spending patterns.",
+      "Built a K-Means clustering model to segment customers into 4 distinct groups based on behavioral features.",
+      "Identified high-value loyal customers driving the majority of revenue and one-time high spenders with strong conversion potential.",
+      "Enabled targeted business strategies such as customer retention, remarketing, and personalized promotions."
+    ],
+    "github": "https://github.com/SukritiKashyap/CUSTOMER-PROFITABILITY-ANALYSIS",
+    "image": "https://images.unsplash.com/photo-1551288049-bbda38a5f452?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "insurance-conversion",
+    "title": "Insurance Customer Behavior and Conversion Analysis",
+    "tag": "Data Science",
+    "problem": "Analyzed an insurance dataset to understand customer behavior, engagement patterns, and factors influencing lead conversion and revenue generation.",
+    "tools": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn", "Streamlit"],
+    "insights": [
+      "Identified strong relationship between customer engagement (website visits, inquiries, quotes) and conversion probability.",
+      "Found that higher credit score customers exhibit higher conversion rates.",
+      "Built and deployed an interactive Streamlit dashboard for real-time prediction of conversion probability and expected revenue, enabling data-driven decision making."
+    ],
+    "github": "https://github.com/SukritiKashyap/Insurance-Lead-Conversion-Prediction",
+    "demo": "https://insurance-conversion-prediction.streamlit.app/",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop"
+  },
+  {
+    "id": "ai-web-dev",
+    "title": "AI-Assisted Web Development and SEO Optimization",
+    "tag": "Development",
+    "problem": "Developed and optimized the official website of Haryana Chess Association to improve visibility, automate operations, and enhance user experience.",
+    "tools": ["Generative AI", "Python", "Prompt Engineering", "HTML", "CSS", "JavaScript", "GitHub", "Netlify", "SEO"],
+    "insights": [
+      "Built and deployed the official website using AI-assisted development and prompt engineering, generating optimized frontend code.",
+      "Implemented SEO strategies that improved search rankings.",
+      "Automated certificate generation using Python, processing 1000+ certificates and reducing manual workload.",
+      "Improved website performance and accessibility."
+    ],
+    "github": "#",
+    "image": "https://images.unsplash.com/photo-1543286386-713bdd548da4?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "quality-analysis",
+    "title": "Statistical Quality Analysis for Manufacturing Process Improvement",
+    "tag": "Statistics",
+    "problem": "Analyzed manufacturing data to evaluate production accuracy, identify process variations, and improve overall product quality and reliability.",
+    "tools": ["Statistical Analysis", "7QC Tools", "Process Control Techniques", "Data Analysis"],
+    "insights": [
+      "Conducted statistical quality analysis on threaded tubes (Ø16.3×0.9mm, M15×1×20mm) to assess manufacturing precision and defect patterns.",
+      "Applied 7QC tools for defect identification, process monitoring, and quality evaluation.",
+      "Performed root cause analysis in collaboration with engineering teams to identify sources of process variation.",
+      "Improved process consistency through continuous monitoring and data-driven quality control methods."
+    ],
+    "github": "#",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2070&auto=format&fit=crop"
+  }
+]
